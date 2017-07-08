@@ -1,0 +1,22 @@
+{
+    "remotePath": "./wikipedia",
+    "host": "52.53.193.173",
+    "username": "ubuntu",
+    "port": 22,
+    "secure": true,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": "/Users/christopher/.ssh/wikipedia_dump.pem",
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
